@@ -11,7 +11,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/gopalk26/TastyFoodApp.git
+
 
 
 
