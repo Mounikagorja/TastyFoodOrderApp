@@ -8,9 +8,7 @@ Getting Started
 To clone this repository and run the project locally, follow these simple steps:
 
 Clone the Repository:
-
-sh
-Copy code
+https://github.com/Mounikagorja/TastyFoodOrderApp
 
 
 
